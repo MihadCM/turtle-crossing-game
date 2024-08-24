@@ -1,1 +1,1 @@
-created a python game turtle crossing using turtle module
+Its a python turtle crossing game created using turtle module
